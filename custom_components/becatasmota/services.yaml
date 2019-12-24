@@ -1,0 +1,4 @@
+check_updates:
+  description: Check for BecaTasmota updates.
+update_component:
+  description: Update BecaTasmota component.

@@ -1,0 +1,20 @@
+{
+  "domain": "becatasmota",
+  "name": "BecaTasmota",
+  "documentation": "https://github.com/emanuelecavestri/BecaTasmota",
+  "dependencies": [],
+  "codeowners": ["@emanuelecavestri"],
+  "requirements": [],
+  "homeassistant": "0.103.4",
+  "updater": {
+    "version": "0.0.1",
+    "releaseNotes": "Alpha version",
+    "files": [
+      "__init__.py",
+      "climate.py",
+      "TuyaMcu.py",
+      "manifest.json",
+      "services.yaml"
+    ]
+  }
+}
